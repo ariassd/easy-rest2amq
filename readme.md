@@ -1,8 +1,8 @@
 ![](assets/header.png)
 
-# Easy Rest2Postman
+# Easy Rest2AQM
 
-## Use postman to send rabbit messages
+## Use REST API to send rabbit messages
 
 #### Use cases
 
