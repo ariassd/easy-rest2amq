@@ -35,7 +35,7 @@ app.post("/", async (req, res) => {
 });
 
 app.listen(port, "localhost", () => {
-  console.log(`Thanks for use Rest2Postman `);
+  console.log(`Thanks for use Rest2Aqm `);
   console.log(`Rest2Postman service listen on http://localhost:${port}`);
 });
 
